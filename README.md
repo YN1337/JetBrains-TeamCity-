@@ -1,7 +1,15 @@
 #- Exploit Title: JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE)
+
+
 #- Shodan Dork: http.title:TeamCity , http.favicon.hash:-1944119648
+
+
 #- Version: versions before 2023.05.4
-#- Tested on: 2023.05.3                      
+
+
+#- Tested on: 2023.05.3     
+
+
 #- CVE : CVE-2023-42793
 
 
